@@ -1,1 +1,1 @@
-Sample2 content
+This is a placeholder content for Sample2.txt.
